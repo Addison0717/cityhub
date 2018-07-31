@@ -1,4 +1,4 @@
-# cityhub
+# cityhub (OLD VERSION, USE FOR REFERENCE ONLY)
 A local version of the admin console being used to scrape instagram for CityHub
 
 `tsc -w` in the server folder to compile typescript
